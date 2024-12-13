@@ -1,8 +1,9 @@
 # Техническая документация
 
-# Авторство/Разработчики проекта 
+## Авторство/Разработчики проекта 
 
-[egprog](https://t.me/egprog "ну эт я ") - Full-Stack AI/Ml SRE Engeenier
+[egprog](https://t.me/egprog "ну эт я ") - Full-Stack AI/Ml SRE Engeenier<br>
+
 [tazik](https://t.me/tazikwithoutokroshki "а эт артем") - BackSecOps Engeenier
 
 ## 1. Введение
