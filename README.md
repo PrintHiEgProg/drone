@@ -2,7 +2,7 @@
 
 ## Авторство/Разработчики проекта 
 
-[egprog](https://t.me/egprog "ну эт я ") - Full-Stack AI/Ml SRE Engeenier<br>
+[egprog](https://t.me/egprog "ну эт я ") - Full-Stack AI/ML SRE Engeenier<br>
 
 [tazik](https://t.me/tazikwithoutokroshki "а эт артем") - BackSecOps Engeenier
 
